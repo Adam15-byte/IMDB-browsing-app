@@ -13,7 +13,6 @@
     "@react-navigation/bottom-tabs": "^6.2.0",
     "@react-navigation/native": "^6.0.8",
     "expo": "~44.0.0",
-    "expo-blur": "~11.0.0",
     "expo-dev-client": "~0.8.4",
     "expo-linear-gradient": "~11.0.3",
     "expo-status-bar": "~1.2.0",
