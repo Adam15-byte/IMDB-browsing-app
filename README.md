@@ -1,6 +1,9 @@
 # IMDB Browsing app
 Simple app used to browse IMDB library of most popular movies, Top TV shows and Top movies.
 
+Made with tutorial from Catalin Miron:
+https://www.youtube.com/watch?v=yV-2HRzNX9o
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#Technologies)
